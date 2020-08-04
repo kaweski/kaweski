@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+My name is Isadora Kaweski, but you can call me Isa. ✨
+(Some friends reach me as Natasha, because it's my first name, but I don't like it. So, call me Isa 😄).
+
+I live in Brazil and I'm 29 years old.
+I still study Computer Science (as you can see I have a lot of Java and C repositories just because of that), but I graduate at the end of this year.
+
+I'm a Front-end Developer since 2012 when I was having Graphic Computer classes and started working in an agency in Belo Horizonte-MG.
+I started my career with agancies, but since middle 2017 I work in financial products. I loved work with financial product and I prefer to work with MONEY! Hahaha Just kidding...
+
+Today I work in a Bank and I use Javascript and CSS as my work tools.
+
+To be more precise:
+
+- 🔭 I’m currently working on product to legal entities (we call it PJ - pessoa jurídica - in Brazil).
+- 🌱 I’m currently learning more of React and other Javascript frameworks, also reading a lot for my CBT.
+- 📫 How to reach me: naweskil@gmail.com or isadorakaweski@gmail.com
+- ⚡ Fun fact: I'm currently enjoying this quarantine playing a lot of The Sims 4 (Origin account: kaweskisa) and World of Warcraft (Blizzard account: naweskil) 😊.
+- 🤔 Oh! Before quarantine I was studying a way to create a RPG platform, to help masters to organize their table. If you want to help, please reach me!
+
+Keep your feet on the ground.
+
 <!--
 **naweskil/naweskil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
