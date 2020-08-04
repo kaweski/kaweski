@@ -14,8 +14,8 @@ Today I work in a Bank and I use Javascript and CSS as my work tools.
 To be more precise:
 
 - 🔭 I’m currently working on product to legal entities (we call it PJ - pessoa jurídica - in Brazil).
-- 🌱 I’m currently learning more of React and other Javascript frameworks, also reading a lot for my CBT.
-- 📫 How to reach me: naweskil@gmail.com or isadorakaweski@gmail.com
+- 🌱 I’m currently learning more of React and other Javascript frameworks, also reading a lot for my CBT. I'm also learning UX/UI and enjoying a lot! ✨
+- 📫 How to reach me: naweskil@gmail.com or isadorakaweski@gmail.com, and [Twitter](https://twitter.com/kaweskisa)
 - ⚡ Fun fact: I'm currently enjoying this quarantine playing a lot of The Sims 4 (Origin account: kaweskisa) and World of Warcraft (Blizzard account: naweskil) 😊.
 - 🤔 Oh! Before quarantine I was studying a way to create a RPG platform, to help masters to organize their table. If you want to help, please reach me!
 
