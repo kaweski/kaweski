@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 My name is Isadora Kaweski, but you can call me Isa. ✨
-(Some friends reach me as Natasha, because it's my first name, but I don't like it. So, call me Isa 😄).
+
+(Some friends call me as Natasha, because it's my first name, but I don't like it. So, call me Isa 😄).
 
 I live in Brazil and I'm 29 years old.
 I still study Computer Science (as you can see I have a lot of Java and C repositories just because of that), but I graduate at the end of this year.
