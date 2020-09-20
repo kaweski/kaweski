@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Isadora Kaweski, but you can call me Isa. ✨
+My name is Natasha Isadora Kaweski Leite, but you can call me Isa or Nat. ✨
 
 I live in Brazil and I'm 29 years old.
 I still study Computer Science and I graduate at the end of this year.
