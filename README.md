@@ -2,12 +2,11 @@
 
 My name is Natasha Isadora Kaweski Leite, but you can call me Isa or Nat. ✨
 
-I live in Brazil and I'm 30 years old.
-I still study Computer Science and I graduate at the end of this year.
+I live in Brazil and I'm 31 years old, Computer Scientist graduation since 2020.
 
 I use to be Front-end Developer since 2012 when I was having Graphic Computer classes and started working in an agency in Belo Horizonte-MG.
 I started my career with agencies, but since middle 2017 I work in financial products.
-Today I'm working as UX/UI Designer, and I'm really enjoying this new experience! ✨
+Today I'm working as Design System Ops, and I'm really enjoying this new experience! ✨
 
 Keep your feet on the ground.
 
