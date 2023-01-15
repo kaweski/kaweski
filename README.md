@@ -8,21 +8,11 @@ I use to be Front-end Developer since 2012 when I was having Graphic Computer cl
 I started my career with agencies, but since middle 2017 I work in financial products.
 Today I'm working as Senior Design System Ops, and I'm really enjoying this new experience! ✨
 
-You can check my website onn http://kawe.ski
+Some facts:
 
-Keep your feet on the ground.
-
-<!--
-**naweskil/naweskil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my website http://kawe.ski
+- 🌱 I’m currently learning React, Redux + Typescript.
+- 💬 Ask me about Design System!
+- 📫 How to reach me: chat only :) I'm not freelancing.
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I used to be Front-end but today I work as Design System Ops, but, actually the fun fact is that I'm returning to programing. This is pretty difficult! Need to practice more.
